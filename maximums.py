@@ -19,6 +19,5 @@ def max_of_three(x, y, z):
         return y
     return z
 
-maximo3 = max_of_three(int(input()),int(input()),int(input()))
-print(maximo3)    
-
+"""maximo3 = max_of_three((input()),int(input()),int(input()))
+print(maximo3)"""  
