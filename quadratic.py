@@ -62,4 +62,4 @@ def derivation(a, b, c):
         derivada = f"f'(x) = {2*a} * X + {b}"
     return derivada
 
-print(derivation(int(input()), int(input()), int(input())))
+"""print(derivation(int(input()), int(input()), int(input())))"""
